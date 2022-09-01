@@ -16,8 +16,12 @@
 ### My skills 🥷
 ## Great :
    -> ![java](https://user-images.githubusercontent.com/89980155/187877820-8aad200f-a356-45f4-b3e5-8d1b0006fece.png)
-   -> !(js-icon)[https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/python.png]
+   -> ![python](https://user-images.githubusercontent.com/89980155/187878412-dad2542d-8611-442c-8f52-763407313096.png)
 ## Learning :
-    -> !(js-icon)[https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/msql.png]
+   -> ![mysql](https://user-images.githubusercontent.com/89980155/187878487-6497d5dc-d94a-498f-b5e8-32c57a77815d.png)
 ### Tools 🧰
-    -> !(js-icon)[https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/ubuntu.png]
+## OS :
+   ![ubuntu](https://user-images.githubusercontent.com/89980155/187878598-849f7fc7-387b-4b1c-ba54-7067bcfd03b5.png) or ![windows](https://user-images.githubusercontent.com/89980155/187878659-c1106eda-68d5-44b9-8ef3-692b733d40d1.png) (it depends if I work with C/C++ or not)
+## IDLE :
+   ![visualstudio](https://user-images.githubusercontent.com/89980155/187879417-b9ccdffa-7d18-4b93-b387-a0f215c2b46e.png) and ![intellij](https://user-images.githubusercontent.com/89980155/187879620-73561abf-e89d-4d15-ae70-cbe6e79ae54f.png) (and often emacs 😎)
+
