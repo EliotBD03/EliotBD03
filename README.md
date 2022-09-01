@@ -15,12 +15,14 @@
 
 ### My skills 🥷
 ## Great :
-   [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python.svg" style="padding-right:10px;" />][webdevplaylist]
+   - python ![python](https://user-images.githubusercontent.com/89980155/187883449-cdcb8c47-fdd5-4ce6-9dd5-a6800ac388ec.png)
+   - java ![java](https://user-images.githubusercontent.com/89980155/187883631-9694550d-83cf-4250-a98b-7e6ce2fd1f8c.png)
 ## Learning :
-   [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
+   - Mysql ![mysql](https://user-images.githubusercontent.com/89980155/187883773-8bf2e405-7d5c-475b-bbf8-0df5c76a7236.png)
+   - C++ for programming contest
 ### Tools 🧰
 ## OS :
-   ![ubuntu](https://user-images.githubusercontent.com/89980155/187878598-849f7fc7-387b-4b1c-ba54-7067bcfd03b5.png) or ![windows](https://user-images.githubusercontent.com/89980155/187878659-c1106eda-68d5-44b9-8ef3-692b733d40d1.png) (it depends if I work with C/C++ or not)
+   ![ubuntu](https://user-images.githubusercontent.com/89980155/187883831-616bfc44-1419-47e9-bf62-aa5a45864161.png) or ![windows](https://user-images.githubusercontent.com/89980155/187878659-c1106eda-68d5-44b9-8ef3-692b733d40d1.png) (it depends if I work with C/C++ or not)
 ## IDLE :
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />] and ![intellij](https://user-images.githubusercontent.com/89980155/187879620-73561abf-e89d-4d15-ae70-cbe6e79ae54f.png) (and often emacs 😎)
+![visualstudio](https://user-images.githubusercontent.com/89980155/187884014-bca185b6-a6c6-44c7-9d0d-f6422db8c048.png) and ![intellij](https://user-images.githubusercontent.com/89980155/187879620-73561abf-e89d-4d15-ae70-cbe6e79ae54f.png) (and often emacs 😎)
 
