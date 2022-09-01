@@ -7,10 +7,17 @@
     - I would like to be the greatest student in my class too 👨‍🎓
 
 ## My first project 🎮
-    During our first year in CS. We had to make a puzzle game in java. This game called BabaIsYou was a very\n interessant algorithmic problem because the rules of the game were inside the game ! My grade for this was 16/20 which is a great note for me. Now we talked about that, let's take a look at this project ! https://github.com/EliotBD03/BabaIsYou.git 
-
-<br/>
+    During our first year in CS. We had to make a puzzle game in java. This game called BabaIsYou was a very
+    interessant algorithmic problem because the rules of the game were inside the game ! 
+    My grade for this was 16/20 which is a great note for me. 
+    Now we talked about that, let's take a look at this project ! 
+    https://github.com/EliotBD03/BabaIsYou.git 
 
 ### My skills 🥷
-
-     
+## Great :
+    -> !(js-icon)[https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/java.png]
+    -> !(js-icon)[https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/python.png]
+## Learning :
+    -> !(js-icon)[https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/msql.png]
+### Tools 🧰
+    -> !(js-icon)[https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/ubuntu.png]
