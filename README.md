@@ -15,8 +15,8 @@
 
 ### My skills 🥷
 ## Great :
-    -> ![java](https://user-images.githubusercontent.com/89980155/187877820-8aad200f-a356-45f4-b3e5-8d1b0006fece.png)
-    -> !(js-icon)[https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/python.png]
+    ![java](https://user-images.githubusercontent.com/89980155/187877820-8aad200f-a356-45f4-b3e5-8d1b0006fece.png)
+    !(js-icon)[https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/python.png]
 ## Learning :
     -> !(js-icon)[https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/msql.png]
 ### Tools 🧰
