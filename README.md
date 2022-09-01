@@ -15,7 +15,7 @@
 
 ### My skills 🥷
 ## Great :
-  [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/!SVG/java.svg" style="padding-right:10px;" />]
+  ![java](https://user-images.githubusercontent.com/89980155/187881362-13cfc2d2-4df8-4c7a-ae1d-ec592b535418.svg)
    [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 ## Learning :
    ![mysql](https://user-images.githubusercontent.com/89980155/187878487-6497d5dc-d94a-498f-b5e8-32c57a77815d.png)
