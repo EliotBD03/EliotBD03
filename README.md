@@ -15,13 +15,12 @@
 
 ### My skills 🥷
 ## Great :
-  
-   [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java.svg" style="padding-right:10px;" />]
+   [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python.svg" style="padding-right:10px;" />]
 ## Learning :
-   ![mysql](https://user-images.githubusercontent.com/89980155/187878487-6497d5dc-d94a-498f-b5e8-32c57a77815d.png)
+   [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 ### Tools 🧰
 ## OS :
    ![ubuntu](https://user-images.githubusercontent.com/89980155/187878598-849f7fc7-387b-4b1c-ba54-7067bcfd03b5.png) or ![windows](https://user-images.githubusercontent.com/89980155/187878659-c1106eda-68d5-44b9-8ef3-692b733d40d1.png) (it depends if I work with C/C++ or not)
 ## IDLE :
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist] and ![intellij](https://user-images.githubusercontent.com/89980155/187879620-73561abf-e89d-4d15-ae70-cbe6e79ae54f.png) (and often emacs 😎)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />] and ![intellij](https://user-images.githubusercontent.com/89980155/187879620-73561abf-e89d-4d15-ae70-cbe6e79ae54f.png) (and often emacs 😎)
 
