@@ -11,7 +11,7 @@
     interesting algorithmic problem because the rules of the game were inside the game ! 
     My grade for this was 16/20 which is a great note for me. 
     Now we talked about that, let's take a look at this project ! 
-    https://github.com/EliotBD03/BabaIsYou.git 
+   -> https://github.com/EliotBD03/BabaIsYou.git 
 
 ### MY SKILLS 🥷
 
