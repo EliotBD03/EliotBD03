@@ -8,7 +8,7 @@
 
 ## My first project 🎮
     During our first year in CS. We had to make a puzzle game in java. This game called BabaIsYou was a very
-    interessant algorithmic problem because the rules of the game were inside the game ! 
+    interesting algorithmic problem because the rules of the game were inside the game ! 
     My grade for this was 16/20 which is a great note for me. 
     Now we talked about that, let's take a look at this project ! 
     https://github.com/EliotBD03/BabaIsYou.git 
