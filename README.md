@@ -26,5 +26,5 @@
 ## OS :
    Ubuntu ![ubuntu](https://user-images.githubusercontent.com/89980155/187883831-616bfc44-1419-47e9-bf62-aa5a45864161.png) or Windows ![windows](https://user-images.githubusercontent.com/89980155/187878659-c1106eda-68d5-44b9-8ef3-692b733d40d1.png) (it depends if I work with C/C++ or not)
 ## IDLE :
-   VisualStudioCode ![visualstudio](https://user-images.githubusercontent.com/89980155/187884014-bca185b6-a6c6-44c7-9d0d-f6422db8c048.png) and Intellij ![intellij](https://user-images.githubusercontent.com/89980155/187879620-73561abf-e89d-4d15-ae70-cbe6e79ae54f.png) (and often emacs 😎)
+   VisualStudioCode ![visualstudio](https://user-images.githubusercontent.com/89980155/187884014-bca185b6-a6c6-44c7-9d0d-f6422db8c048.png) and Intellij ![intellij](https://user-images.githubusercontent.com/89980155/187879620-73561abf-e89d-4d15-ae70-cbe6e79ae54f.png) (often emacs 😎)
 
