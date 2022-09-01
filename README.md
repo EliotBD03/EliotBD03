@@ -31,3 +31,8 @@
 ## IDLE :
    VisualStudioCode ![visualstudio](https://user-images.githubusercontent.com/89980155/187884014-bca185b6-a6c6-44c7-9d0d-f6422db8c048.png) and Intellij ![intellij](https://user-images.githubusercontent.com/89980155/187879620-73561abf-e89d-4d15-ae70-cbe6e79ae54f.png) (often emacs 😎)
 
+### CONTACT 🤝
+
+## Mail:
+   julienladeuzepro@gmail.com
+
