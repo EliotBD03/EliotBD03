@@ -15,7 +15,7 @@
 
 ### My skills 🥷
 ## Great :
-   ![java](https://user-images.githubusercontent.com/89980155/187877820-8aad200f-a356-45f4-b3e5-8d1b0006fece.png)
+  [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
    ![python](https://user-images.githubusercontent.com/89980155/187878412-dad2542d-8611-442c-8f52-763407313096.png)
 ## Learning :
    ![mysql](https://user-images.githubusercontent.com/89980155/187878487-6497d5dc-d94a-498f-b5e8-32c57a77815d.png)
