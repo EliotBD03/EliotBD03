@@ -15,7 +15,7 @@
 
 ### My skills 🥷
 ## Great :
-   [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python.svg" style="padding-right:10px;" />]
+   [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python.svg" style="padding-right:10px;" />] [webdevplaylist]
 ## Learning :
    [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 ### Tools 🧰
