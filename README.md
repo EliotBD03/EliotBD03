@@ -19,9 +19,10 @@
    - python ![python](https://user-images.githubusercontent.com/89980155/187883449-cdcb8c47-fdd5-4ce6-9dd5-a6800ac388ec.png)
    - java ![java](https://user-images.githubusercontent.com/89980155/187883631-9694550d-83cf-4250-a98b-7e6ce2fd1f8c.png)
 ## Learned :
+   - C
    - assembly (mips)
-## Learning :
    - Mysql ![mysql](https://user-images.githubusercontent.com/89980155/187883773-8bf2e405-7d5c-475b-bbf8-0df5c76a7236.png)
+## Learning :
    - C++ for programming contest
 
 ### TOOLS 🧰
