@@ -2,16 +2,18 @@
 
 ## I'm a student !
     - I'm currently doing a bachelor's degree in computer science aka the best studies 💻 
-    - I just finished my first year 1️⃣
-    - I would like to make an Erasmus in the trinity college of Dublin to improve my skills in English 🇬🇧
+    - I'm in my third year 3️⃣
+    - I would like to make an Erasmus to improve my skills in English 🇬🇧 and also to get a better understanding of the world !
     - I would like to be the greatest student in my class too 👨‍🎓
 
-## My first project 🎮
+## My projects 
     During our first year in CS. We had to make a puzzle game in java. This game called BabaIsYou was a very
-    interesting algorithmic problem because the rules of the game were inside the game ! 
-    My grade for this was 16/20 which is a great note for me. 
-    Now we talked about that, let's take a look at this project ! 
+    interesting algorithmic problem because the rules of the game were inside the game ! 🎮
    -> https://github.com/EliotBD03/BabaIsYou.git 
+
+    During our second year, we made a web-app where some customers can manage their energy contracts with the suppliers.
+    This project of four people allowed us to discover the world of software engineering ! 
+   -> https://github.com/EliotBD03/Projet-Gl-
 
 ### MY SKILLS 🥷
 
@@ -28,9 +30,9 @@
 ### TOOLS 🧰
 
 ## OS :
-   Ubuntu ![ubuntu](https://user-images.githubusercontent.com/89980155/187883831-616bfc44-1419-47e9-bf62-aa5a45864161.png) or Windows ![windows](https://user-images.githubusercontent.com/89980155/187878659-c1106eda-68d5-44b9-8ef3-692b733d40d1.png) (it depends if I work with C/C++ or not)
+   Arch Linux or Windows ![windows](https://user-images.githubusercontent.com/89980155/187878659-c1106eda-68d5-44b9-8ef3-692b733d40d1.png) (it depends if I want to play to video games or not)
 ## IDLE :
-   VisualStudioCode ![visualstudio](https://user-images.githubusercontent.com/89980155/187884014-bca185b6-a6c6-44c7-9d0d-f6422db8c048.png) and Intellij ![intellij](https://user-images.githubusercontent.com/89980155/187879620-73561abf-e89d-4d15-ae70-cbe6e79ae54f.png) (often emacs 😎)
+   VisualStudioCode ![visualstudio](https://user-images.githubusercontent.com/89980155/187884014-bca185b6-a6c6-44c7-9d0d-f6422db8c048.png), Intellij ![intellij](https://user-images.githubusercontent.com/89980155/187879620-73561abf-e89d-4d15-ae70-cbe6e79ae54f.png) and NeoVim (often emacs 😎)
 
 ### CONTACT 🤝
 
