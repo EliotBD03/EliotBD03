@@ -1,9 +1,8 @@
 ### HI THERE, I'M JULIEN OR EliotBD03 :wave:
 
 ## I'm a student !
-    - I'm currently doing a bachelor's degree in computer science aka the best studies 💻 
-    - I'm in my third year 3️⃣
-    - I would like to make an Erasmus to improve my skills in English 🇬🇧 and also to get a better understanding of the world !
+    - I'm currently starting my master's degree in computer science (aka the best studies 💻)
+    - I'm doing a erasmis in South Korea to get a better understanding of the world !
     - I would like to be the greatest student in my class too 👨‍🎓
 
 ## My projects 
@@ -30,7 +29,7 @@
 ### TOOLS 🧰
 
 ## OS :
-   Arch Linux or Windows ![windows](https://user-images.githubusercontent.com/89980155/187878659-c1106eda-68d5-44b9-8ef3-692b733d40d1.png) (it depends if I want to play to video games or not)
+   Unix-like, Windows ![windows](https://user-images.githubusercontent.com/89980155/187878659-c1106eda-68d5-44b9-8ef3-692b733d40d1.png) (it depends if I want to play to video games or not)
 ## IDLE :
    VisualStudioCode ![visualstudio](https://user-images.githubusercontent.com/89980155/187884014-bca185b6-a6c6-44c7-9d0d-f6422db8c048.png), Intellij ![intellij](https://user-images.githubusercontent.com/89980155/187879620-73561abf-e89d-4d15-ae70-cbe6e79ae54f.png) and NeoVim (often emacs 😎)
 
