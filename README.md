@@ -25,7 +25,7 @@
    - Mysql ![mysql](https://user-images.githubusercontent.com/89980155/187883773-8bf2e405-7d5c-475b-bbf8-0df5c76a7236.png)
 ## Learning :
    - C++ for programming contest
-
+   - Rust
 ### TOOLS 🧰
 
 ## OS :
