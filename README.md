@@ -1,40 +1,66 @@
-### HI THERE, I'M JULIEN OR EliotBD03 :wave:
 
-## I'm a student !
-    - I'm currently starting my master's degree in computer science (aka the best studies 💻)
-    - I'm doing a erasmis in South Korea to get a better understanding of the world !
-    - I would like to be the greatest student in my class too 👨‍🎓
 
-## My projects 
-    During our first year in CS. We had to make a puzzle game in java. This game called BabaIsYou was a very
-    interesting algorithmic problem because the rules of the game were inside the game ! 🎮
-   -> https://github.com/EliotBD03/BabaIsYou.git 
+<h3 align="center">
+<b> HI FOLKS :wave: </b>
+</h3>
 
-    During our second year, we made a web-app where some customers can manage their energy contracts with the suppliers.
-    This project of four people allowed us to discover the world of software engineering ! 
-   -> https://github.com/EliotBD03/Projet-Gl-
+<h4 align="center">
+Who am I ?
+</h4>
 
-### MY SKILLS 🥷
+- Belgian CS student at the university of Mons 💻
+- Currently studying in 한국 as an exchange student 🇰🇷
+- Loves doing exercises such as boxing 🥊 or bouldering 🧗
+- Likes to know more about Physics or Mathematics ⚛️
 
-## Mastered :
-   - python ![python](https://user-images.githubusercontent.com/89980155/187883449-cdcb8c47-fdd5-4ce6-9dd5-a6800ac388ec.png)
-   - java ![java](https://user-images.githubusercontent.com/89980155/187883631-9694550d-83cf-4250-a98b-7e6ce2fd1f8c.png)
-## Learned :
-   - C
-   - assembly (mips)
-   - Mysql ![mysql](https://user-images.githubusercontent.com/89980155/187883773-8bf2e405-7d5c-475b-bbf8-0df5c76a7236.png)
-## Learning :
-   - C++ for programming contest
-   - Rust
-### TOOLS 🧰
+<h4 align="center">
+What have I done for now ?
+</h4>
 
-## OS :
-   Unix-like, Windows ![windows](https://user-images.githubusercontent.com/89980155/187878659-c1106eda-68d5-44b9-8ef3-692b733d40d1.png) (it depends if I want to play to video games or not)
-## IDLE :
-   VisualStudioCode ![visualstudio](https://user-images.githubusercontent.com/89980155/187884014-bca185b6-a6c6-44c7-9d0d-f6422db8c048.png), Intellij ![intellij](https://user-images.githubusercontent.com/89980155/187879620-73561abf-e89d-4d15-ae70-cbe6e79ae54f.png) and NeoVim (often emacs 😎)
+- Game development in JAVA : [BabaIsYou](https://github.com/EliotBD03/BabaIsYou.git)
+- Software engineering practice : [BabaWallet](https://github.com/EliotBD03/Projet-Gl-)
 
-### CONTACT 🤝
+(Don't hesitate to check the other repositories)
 
-## Mail:
-   julienladeuzepro@gmail.com
+<h4 align="center">
+How to contact me ?
+</h4>
+
+- <a href="julienladeuzepro@gmail.com">email</a> 📫
+- <a href="www.linkedin.com/in/julien-ladeuze">linkedin</a> 🔗
+
+
+<h4 align="center">
+Which programming language do I use ?
+</h4>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,rust,vuejs,c,cpp,latex" />
+  </a>
+</p>
+
+<h4 align="center">
+Which OS did I use or am I using?
+</h4>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,debian,arch,apple,windows" />
+  </a>
+</p>
+
+<h4 align="center">
+Which IDE ?
+</h4>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,neovim,emacs" />
+  </a>
+</p>
+<p align="center">
+    <img src=https://github.com/user-attachments/assets/d3930319-1a08-4eb4-871d-9bfebb6b2665 />
+</p>
 
