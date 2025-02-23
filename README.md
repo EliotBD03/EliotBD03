@@ -41,7 +41,7 @@ Which programming language do I use ?
 </p>
 
 <h4 align="center">
-Which OS did I use or am I using?
+Which OS did I use or am I using ?
 </h4>
 
 <p align="center">
@@ -51,7 +51,7 @@ Which OS did I use or am I using?
 </p>
 
 <h4 align="center">
-Which IDE ?
+Which IDE did I use or am I using ?
 </h4>
 
 
