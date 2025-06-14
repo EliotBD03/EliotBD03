@@ -9,7 +9,7 @@ Who am I ?
 </h4>
 
 - Belgian CS student at the university of Mons 💻
-- was studying in 한국 as an exchange student 🇰🇷
+- Was studying in 한국 as an exchange student 🇰🇷
 - Loves doing exercises such as boxing 🥊 or bouldering 🧗
 - Likes to know more about Physics or Mathematics ⚛️
 
