@@ -8,6 +8,7 @@
 Who am I ?
 </h4>
 
+
 - Belgian CS student at the university of Mons 💻
 - Was studying in 한국 as an exchange student 🇰🇷
 - Loves doing exercises such as boxing 🥊 or bouldering 🧗
@@ -29,6 +30,7 @@ How to contact me ?
 
 - <a href="julienladeuzepro@gmail.com">email</a> 📫
 - <a href="www.linkedin.com/in/julien-ladeuze">linkedin</a> 🔗
+- <a href="https://github.com/user-attachments/files/21312617/my_cv.pdf">Curriculum Vitae</a> :eyes:
 
 
 <h4 align="center">
