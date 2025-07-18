@@ -14,11 +14,12 @@ Who am I ?
 - Likes to know more about Physics or Mathematics ⚛️
 
 <h4 align="center">
-What have I done for now ?
+What have I done so far ?
 </h4>
 
 - Game development in JAVA : [BabaIsYou](https://github.com/EliotBD03/BabaIsYou.git)
 - Software engineering practice : [BabaWallet](https://github.com/EliotBD03/Projet-Gl-)
+- Frenchy compiler : [CroissantCompiler](https://github.com/kazawai/CroissantCompiler)
 
 (Don't hesitate to check the other repositories)
 
